@@ -1,0 +1,9 @@
+answer_me:
+    ☐ sentence matching
+        ☐ import tensoflow.js
+        ☐ create getEmbedding function
+        ☐ create store embdding in firestore
+        ☐ create dot product
+        ☐ cosine similairity   
+        ☐ similarity ffunction return firestore question document
+        
